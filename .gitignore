@@ -13,3 +13,5 @@ vc-marketing-test-*
 *.o
 *.obj
 *.lst
+uim-marketing-test-offline
+dub.selections.json
